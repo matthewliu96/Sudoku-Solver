@@ -1,5 +1,5 @@
 # Sudoku-Solver
-This is a sudoku solver I made for [Project Euler Problem 96](https://projecteuler.net/problem=96). The solver first uses contraint propagation on each square that needs to be filled in. If the grid cannot be solved using this strategy alone, a backtracking search algorithm is used in conjunction with the constraint propagation algorithm. The implementation is inspired by Peter Norvig's essay [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html).
+This is a sudoku solver I made for [Project Euler Problem 96](https://projecteuler.net/problem=96). The solver first uses contraint propagation on each square that needs to be filled in. If the grid cannot be solved using this strategy alone, a backtracking search algorithm is used in conjunction with the constraint propagation algorithm. The implementation is inspired by Peter Norvig's blog post [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html).
 
 The data file containing the 50 puzzles in the Project Euler Problem is provided. The solver can be run via 
 ```sh
