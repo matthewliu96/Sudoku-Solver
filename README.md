@@ -41,7 +41,7 @@ State After Constraint Propagation
 . . . | 7 8 1 | . . .
 8 6 . | . 9 5 | . 1 .
 
-Solved After Backtracking Search
+Solved After Search
 5 8 6 | 1 2 7 | 9 4 3
 7 2 3 | 4 6 9 | 8 5 1
 4 9 1 | 8 5 3 | 2 6 7
