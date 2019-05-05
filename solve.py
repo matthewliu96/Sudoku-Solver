@@ -195,7 +195,7 @@ def main():
 			print('State After Constraint Propagation')
 			print(string_grid(temp_grid))
 			solution = search(grid)
-			print('Solved After Backtracking Search')
+			print('Solved After Search')
 			print(string_grid(solution))
 
 if __name__ == '__main__':
